@@ -1,0 +1,211 @@
+#EXTM3U
+
+#EXTINF:0 group-title="DHONY CANAIS"
+
+#EXTINF:0 tvg-id="Fx.br" group-title="CANAIS: FILMES E SERIES",FX FULLHD
+http://nbrasil.biz:80/live/ricardojose/15998312436/208966.m3u8
+#EXTINF:0 tvg-id="FXHD.mx" group-title="CANAIS: FILMES E SERIES",FX HD
+http://nbrasil.biz:80/live/ricardojose/15998312436/208967.m3u8
+#EXTINF:0 tvg-id="FX.uk" group-title="CANAIS: FILMES E SERIES",FX SD
+http://nbrasil.biz:80/live/ricardojose/15998312436/208968.m3u8
+
+#EXTINF:0 tvg-id="Combate.br" group-title="CANAIS: ESPORTES",COMBATE FHD
+http://tvdns.tech:80/336208/336208/758162
+#EXTINF:0 tvg-id="Combate.br" group-title="CANAIS: ESPORTES",COMBATE HD
+http://tvdns.tech:80/336208/336208/758163
+#EXTINF:0 tvg-id="Combate.br" group-title="CANAIS: ESPORTES",COMBATE FHD
+http://fdq.digital:80/Jardel050621VX/Fraga2011VX/5201
+#EXTINF:0 tvg-id="Combate.br" group-title="CANAIS: ESPORTES",COMBATE HD
+http://fdq.digital:80/Jardel050621VX/Fraga2011VX/5049
+#EXTINF:0 tvg-id="Combate.br" group-title="CANAIS: ESPORTES",COMBATE SD
+http://fdq.digital:80/Jardel050621VX/Fraga2011VX/5411
+#EXTINF:0 tvg-id="Combate.br" group-title="CANAIS: ESPORTES",COMBATE FHD*
+http://fdq.digital:80/Jardel050621VX/Fraga2011VX/128040
+#EXTINF:0 tvg-id="Bandsports.br" group-title="CANAIS: ESPORTES",BAND SPORTS FULLHD
+http://nbrasil.biz:80/live/ricardojose/15998312436/208870.m3u8
+#EXTINF:0 tvg-id="Bandsports.br" group-title="CANAIS: ESPORTES",BAND SPORTS HD
+http://nbrasil.biz:80/live/ricardojose/15998312436/208871.m3u8
+http://nbrasil.biz:80/live/ricardojose/15998312436/208872.m3u8
+#EXTINF:0 tvg-id="Combate.br" group-title="CANAIS: ESPORTES",COMBATE FULLHD
+http://nbrasil.biz:80/live/ricardojose/15998312436/208897.m3u8
+#EXTINF:0 tvg-id="Combate.br" group-title="CANAIS: ESPORTES",COMBATE HD
+http://nbrasil.biz:80/live/ricardojose/15998312436/208898.m3u8
+#EXTINF:0 tvg-id="Espnbrasilhd.br" group-title="CANAIS: ESPORTES",ESPN BRASIL FULLHD
+http://nbrasil.biz:80/live/ricardojose/15998312436/208942.m3u8
+#EXTINF:0 tvg-id="Espnbrasilhd.br" group-title="CANAIS: ESPORTES",ESPN BRASIL HD
+http://nbrasil.biz:80/live/ricardojose/15998312436/208943.m3u8
+#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="CANAIS: ESPORTES",FOX SPORTS 2 HD
+http://nbrasil.biz:80/live/ricardojose/15998312436/208958.m3u8
+#EXTINF:0 tvg-id="FoxSports.it" group-title="CANAIS: ESPORTES",FOX SPORTS FULLHD
+http://nbrasil.biz:80/live/ricardojose/15998312436/208960.m3u8
+#EXTINF:0 tvg-id="FoxSports.it" group-title="CANAIS: ESPORTES",FOX SPORTS HD
+http://nbrasil.biz:80/live/ricardojose/15998312436/208961.m3u8
+#EXTINF:0 tvg-id="Sportv.br" group-title="CANAIS: ESPORTES",SPORTV FULLHD
+http://nbrasil.biz:80/live/ricardojose/15998312436/217303.m3u8
+#EXTINF:0 tvg-id="Sportv.br" group-title="CANAIS: ESPORTES",SPORTV HD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209111.m3u8
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="CANAIS: ESPORTES",SPORTV 2 FULLHD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209104.m3u8
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="CANAIS: ESPORTES",SPORTV 2 HD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209105.m3u8
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="CANAIS: ESPORTES",SPORTV 3 FULLHD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209107.m3u8
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="CANAIS: ESPORTES",SPORTV 3 HD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209108.m3u8
+
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="CANAIS: VARIEDADES",MTV FHD
+http://tvdns.tech:80/336208/336208/758127
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL FHD
+http://tvdns.tech:80/336208/336208/758114
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL HD
+http://tvdns.tech:80/336208/336208/758115
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: VARIEDADES",MTV - HD
+http://xsrv.me:8080/aline2021/2021aline/25148
+#EXTINF:0 tvg-id="mtv-rus" group-title="CANAIS: VARIEDADES",MTV HD+
+http://xcui.vitvabc.xyz:8880/287994003835/287994003835/16738
+#EXTINF:0 tvg-id="Mtv.br" group-title=" CANAIS: VARIEDADES ",MTV FHD¹
+http://fenixuhd.xyz:80/kike2121/kike1530/17988
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="CANAIS: VARIEDADES",MTV LIVE SD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209036.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 01¹
+http://fenixuhd.xyz:80/kike2121/kike1530/56259
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 02¹
+http://fenixuhd.xyz:80/kike2121/kike1530/56260
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 03¹
+http://fenixuhd.xyz:80/kike2121/kike1530/56261
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 06¹
+http://fenixuhd.xyz:80/kike2121/kike1530/56264
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",TNT 4K
+http://fenixuhd.xyz:80/kike2121/kike1530/56210
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 05 HD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209217.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",POWER COUPLE BRASIL HD
+http://tvdns.tech:80/336208/336208/683871
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: REALYT SHOW",Power Couple Brasil 5 HD ³
+http://grsrv.li:80/assis1110/925072as/90222
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: REALYT SHOW",Power Couple Brasil 5 HD ⁴
+http://grsrv.li:80/assis1110/925072as/90223
+
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",PREMIERE 1 FHD
+http://tvdns.tech:80/336208/336208/758194
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",PREMIERE 1 HD
+http://tvdns.tech:80/336208/336208/758195
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",PREMIERE 1 SD
+http://tvdns.tech:80/336208/336208/758196
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 3 FHD
+http://tvdns.tech:80/336208/336208/758197
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 3 HD
+http://tvdns.tech:80/336208/336208/758198
+#EXTINF:0 tvg-id="Premiere3.br" group-title="Channels",PREMIERE 3 SD
+http://tvdns.tech:80/336208/336208/758199
+#EXTINF:0 tvg-id="Premiere4.br" group-title="Channels",PREMIERE 4 HD
+http://tvdns.tech:80/336208/336208/758200
+#EXTINF:0 tvg-id="Premiere4.br" group-title="Channels",PREMIERE 4 FHD
+http://tvdns.tech:80/336208/336208/758201
+#EXTINF:0 tvg-id="Premiere4.br" group-title="Channels",PREMIERE 4 SD
+http://tvdns.tech:80/336208/336208/758202
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 5 FHD
+http://tvdns.tech:80/336208/336208/758203
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 5 HD
+http://tvdns.tech:80/336208/336208/758204
+#EXTINF:0 tvg-id="Premiere5.br" group-title="Channels",PREMIERE 5 SD
+http://tvdns.tech:80/336208/336208/758205
+#EXTINF:0 tvg-id="Premiere6.br" group-title="Channels",PREMIERE 6 HD
+http://tvdns.tech:80/336208/336208/758206
+#EXTINF:0 tvg-id="Premiere6.br" group-title="Channels",PREMIERE 6 SD
+http://tvdns.tech:80/336208/336208/758207
+#EXTINF:0 tvg-id="Premiere7.br" group-title="Channels",PREMIERE 7 HD
+http://tvdns.tech:80/336208/336208/758208
+#EXTINF:0 tvg-id="Premiere7.br" group-title="Channels",PREMIERE 7 SD
+http://tvdns.tech:80/336208/336208/758209
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",PREMIERE CLUBES FHD
+http://tvdns.tech:80/336208/336208/758210
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",PREMIERE CLUBES SD
+http://tvdns.tech:80/336208/336208/758212
+#EXTINF:0 tvg-id="Premiere6.br" group-title="Channels",PREMIERE 6 FHD
+http://tvdns.tech:80/336208/336208/758213
+#EXTINF:0 tvg-id="Premiere7.br" group-title="Channels",PREMIERE 7 FHD
+http://tvdns.tech:80/336208/336208/758214
+
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD*
+http://fdq.digital:80/Jardel050621VX/Fraga2011VX/128491
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="CANAIS: PREMIERE",PREMIERE CLUBES FHD*
+http://fdq.digital:80/Jardel050621VX/Fraga2011VX/128495
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="CANAIS: PREMIERE",PREMIERE CLUBES FULLHD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209086.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: PREMIERE",PREMIERE 2 FULLHD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209068.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: PREMIERE",PREMIERE 2 HD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209069.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: PREMIERE",PREMIERE 3 FULLHD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209071.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: PREMIERE",PREMIERE 3 HD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209072.m3u8
+#EXTINF:0 tvg-id="Premiere4.br" group-title="CANAIS: PREMIERE",PREMIERE 4 FULLHD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209074.m3u8
+#EXTINF:0 tvg-id="Premiere4.br" group-title="CANAIS: PREMIERE",PREMIERE 4 HD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209075.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: PREMIERE",PREMIERE 5 FULLHD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209077.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: PREMIERE",PREMIERE 5 HD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209078.m3u8
+#EXTINF:0 tvg-id="Premiere6.br" group-title="CANAIS: PREMIERE",PREMIERE 6 FULLHD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209080.m3u8
+#EXTINF:0 tvg-id="Premiere6.br" group-title="CANAIS: PREMIERE",PREMIERE 6 HD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209081.m3u8
+#EXTINF:0 tvg-id="Premiere7.br" group-title="CANAIS: PREMIERE",PREMIERE 7 FULLHD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209083.m3u8
+#EXTINF:0 tvg-id="Premiere7.br" group-title="CANAIS: PREMIERE",PREMIERE 7 HD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209084.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: PREMIERE",PREMIERE 8 FULLHD
+http://nbrasil.biz:80/live/ricardojose/15998312436/215825.m3u8
+
+
+#EXTINF:0 tvg-id="Playboytv.br" group-title="CANAIS | ADULTOS",XXX: PLAYBOY TV FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/7656
+#EXTINF:0 tvg-id="Playboytv.br" group-title="CANAIS | ADULTOS",XXX: PLAYBOY TV HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/2203
+
+#EXTINF:0 tvg-id="avi" group-title="Series | Animes",Boruto -  S01 E181
+http://xsrv.me:8080/series/aline2021/2021aline/114453.mp4
+#EXTINF:0 tvg-id="avi" group-title="Series | Animes",Boruto -  S01 E182
+http://xsrv.me:8080/series/aline2021/2021aline/114454.mp4
+#EXTINF:0 tvg-id="avi" group-title="Series | Animes",Boruto -  S01 E183
+http://xsrv.me:8080/series/aline2021/2021aline/114455.mp4
+#EXTINF:0 tvg-id="avi" group-title="Series | Animes",Boruto -  S01 E184
+http://xsrv.me:8080/series/aline2021/2021aline/114456.mp4
+#EXTINF:0 tvg-id="avi" group-title="Series | Animes",Boruto -  S01 E185
+http://xsrv.me:8080/series/aline2021/2021aline/114457.mp4
+#EXTINF:0 tvg-id="avi" group-title="Series | Animes",Boruto -  S01 E186
+http://xsrv.me:8080/series/aline2021/2021aline/114458.mp4
+#EXTINF:0 tvg-id="avi" group-title="Series | Animes",Boruto -  S01 E187
+http://xsrv.me:8080/series/aline2021/2021aline/114459.mp4
+#EXTINF:0 tvg-id="avi" group-title="Series | Animes",Boruto -  S01 E188
+http://xsrv.me:8080/series/aline2021/2021aline/114460.mp4
+#EXTINF:0 tvg-id="avi" group-title="Series | Animes",Boruto -  S01 E189
+http://xsrv.me:8080/series/aline2021/2021aline/114461.mp4
+#EXTINF:0 tvg-id="avi" group-title="Series | Animes",Boruto -  S01 E190
+http://xsrv.me:8080/series/aline2021/2021aline/114462.mp4
+#EXTINF:0 tvg-id="avi" group-title="Series | Animes",Boruto -  S01 E191
+http://xsrv.me:8080/series/aline2021/2021aline/114463.mp4
+#EXTINF:0 tvg-id="avi" group-title="Series | Animes",Boruto -  S01 E192
+http://xsrv.me:8080/series/aline2021/2021aline/114464.mp4
+#EXTINF:0 tvg-id="avi" group-title="Series | Animes",Boruto -  S01 E193
+http://xsrv.me:8080/series/aline2021/2021aline/114465.mp4
+#EXTINF:0 tvg-id="avi" group-title="Series | Animes",Boruto -  S01 E194
+http://xsrv.me:8080/series/aline2021/2021aline/114466.mp4
+#EXTINF:0 tvg-id="avi" group-title="Series | Animes",Boruto -  S01 E195
+http://xsrv.me:8080/series/aline2021/2021aline/114467.mp4
+#EXTINF:0 tvg-id="avi" group-title="Series | Animes",Boruto -  S01 E196
+http://xsrv.me:8080/series/aline2021/2021aline/114468.mp4
+#EXTINF:0 tvg-id="avi" group-title="Series | Animes",Boruto -  S01 E197
+http://xsrv.me:8080/series/aline2021/2021aline/114469.mp4
+#EXTINF:0 tvg-id="avi" group-title="Series | Animes",Boruto -  S01 E198
+http://xsrv.me:8080/series/aline2021/2021aline/114470.mp4
+#EXTINF:0 tvg-id="avi" group-title="Series | Animes",Boruto -  S01 E199
+http://xsrv.me:8080/series/aline2021/2021aline/114471.mp4
+#EXTINF:0 tvg-id="avi" group-title="Series | Animes",Boruto -  S01 E200
+http://xsrv.me:8080/series/aline2021/2021aline/114472.mp4
+
